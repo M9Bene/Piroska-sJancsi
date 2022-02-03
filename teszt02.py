@@ -1,2 +1,2 @@
-print("asd")
+print("asdas")
 print("qwertz")
